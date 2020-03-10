@@ -1,0 +1,29 @@
+{
+  "result": {
+    "browserName": "BROWSER",
+    "testTimeMilliSecond": "",
+    "categorySearch": [
+      "1",
+      "2",
+      "3"
+    ],
+    "provinceSearch": [
+      "1",
+      "2",
+      "3"
+    ],
+    "districtSearch": [
+      "1",
+      "2",
+      "3"
+    ],
+    "video": false,
+    "photo": false,
+    "megaPhoto": false,
+    "searchResult": [
+      {
+        "ilanCategory": null
+      }
+    ]
+  }
+}
